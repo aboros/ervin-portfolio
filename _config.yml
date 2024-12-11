@@ -22,7 +22,7 @@ title: Mekota Ervin
 email: hunaboros@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Klímaváltozás és építészet, kutatások, tanulmányok, cikkek, projektek
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ervin-portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 
