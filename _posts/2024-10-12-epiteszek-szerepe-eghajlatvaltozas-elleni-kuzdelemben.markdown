@@ -2,13 +2,15 @@
 layout: post
 title:  "Az építészek szerepe az éghajlatváltozás elleni küzdelemben"
 date:   2024-10-12 16:38:24 +0100
+excerpt_separator: <!--more-->
 ---
+
+A cikk _"The Role of Architects in Combating Climate Change"_ az építészek kiemelt szerepét hangsúlyozza az éghajlatváltozás elleni küzdelemben. Az építészek nemcsak esztétikai és funkcionális megoldásokat nyújtanak, hanem jelentős befolyással bírnak a fenntarthatóságot elősegítő építési folyamatokra és technológiákra.
+<!--more-->
 
 **Forrás:** [The Role of Architects in Combating Climate Change](https://architectureprize.com/the-role-of-architects-and-climate-change/)  
 **Szerző:** Architecture Prize  
 **Megjelenés:** 2023.06.15.
-
-A cikk _"The Role of Architects in Combating Climate Change"_ az építészek kiemelt szerepét hangsúlyozza az éghajlatváltozás elleni küzdelemben. Az építészek nemcsak esztétikai és funkcionális megoldásokat nyújtanak, hanem jelentős befolyással bírnak a fenntarthatóságot elősegítő építési folyamatokra és technológiákra.
 
 Ezen kívül bemutatja a 2024-es Architecture MasterPrize díj győztes projektjeit, amelyek példaként szolgálnak a fenntarthatóság és az innováció terén.
 
