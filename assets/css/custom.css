@@ -1,0 +1,57 @@
+/* Override default styles */
+a:link, a:visited {
+    text-decoration: none;
+    color: rgb(23, 177, 92);
+}
+a:hover {
+    text-decoration: underline;
+    color: rgb(16, 138, 71);
+}
+
+/* Basic layout styles */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+.col {
+    flex: 100%;
+    margin: 1rem 0;
+}
+@media screen and (min-width: 768px) {
+    .col {
+        flex: 1;
+        margin: 1rem;
+    }
+}
+.box {
+    padding: 20px;
+    background-color: #e8eed0;
+    border-radius: 5px;
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.flex-row {
+    flex-direction: row;
+}
+
+/* Button styles */
+a.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+}
+a.btn:hover {
+    background-color: rgb(16, 138, 71);
+    text-decoration: underline;
+}
+
+/* Post list styles */
+.post-list li {
+    padding: 2rem 0;
+    border-bottom: 1px solid #eaeaea;
+}
+
