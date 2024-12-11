@@ -2,11 +2,14 @@
 layout: post
 title:  "Proaktív építészet, mint eszköz az éghajlatváltozás mérséklésére"
 date:   2024-11-02 16:38:24 +0100
+excerpt: "ArchDaily cikke rávilágít arra, hogy proaktív építészet kulcsfontosságú a klímaváltozás elleni küzdelemben."
 ---
 
 **Forrás:** [Proactive Architecture as a Means to Mitigate Climate Change](https://www.archdaily.com/938685/proactive-architecture-as-a-means-to-mitigate-climate-change) (ArchDaily)  
 **Szerző:** Kaley Overstreet  
 **Megjelenés:** 2023.09.15.
+
+![Proaktív építészet, mint eszköz az éghajlatváltozás mérséklésére](https://images.adsttc.com/media/images/5eaa/6a9f/b357/6504/8400/00e8/newsletter/rebuildbydesign.org.jpg?1588226714)
 
 ## Főbb módszerek
 
@@ -33,7 +36,5 @@ A „Proactive Architecture as a Means to Mitigate Climate Change" című cikk a
 
 ### 5. Ajánlások
 - Több együttműködés a szakértők között, szabályozások bevezetése, és az ökológiai szempontokat figyelembe vevő várostervezés szükségessége
-
----
 
 A tanulmány hangsúlyozza, hogy az építészeti szektor kulcsszerepet játszik a fenntartható jövő megteremtésében, és kiemeli, hogy a proaktív megközelítés nemcsak a klímaváltozás hatásait enyhíti, hanem hosszú távú gazdasági és társadalmi előnyökkel is jár. További részletek az írás teljes változatában találhatók a kapcsolódó publikációk és cikkek forrásaiban.

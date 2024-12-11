@@ -1,17 +1,17 @@
-/* Override default styles */
 a:link, a:visited {
     text-decoration: none;
     color: rgb(23, 177, 92);
 }
 a:hover {
     text-decoration: underline;
-    color: rgb(16, 138, 71);
+    color: rgb(5, 48, 24);
 }
 
 /* Basic layout styles */
 .row {
     display: flex;
     flex-wrap: wrap;
+}
 .col {
     flex: 100%;
     margin: 1rem 0;
@@ -43,6 +43,7 @@ a.btn {
     background-color: #333;
     color: white;
     text-decoration: none;
+    transition: background-color 0.3s ease;
 }
 a.btn:hover {
     background-color: rgb(16, 138, 71);
@@ -50,8 +51,7 @@ a.btn:hover {
 }
 
 /* Post list styles */
-.post-list li {
+ul.post-list li {
     padding: 2rem 0;
     border-bottom: 1px solid #eaeaea;
 }
-

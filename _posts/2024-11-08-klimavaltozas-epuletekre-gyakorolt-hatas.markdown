@@ -2,11 +2,14 @@
 layout: post
 title:  "Klimaváltozás: Épületekre gyakorolt hatás"
 date:   2024-11-08 16:38:24 +0100
+excerpt: "A Cambridge Institute for Sustainability Leadership kutatása rávilágít arra, hogy a meglévő és új épületek energiafelhasználásának javítása kulcsfontosságú a klímaváltozás elleni küzdelemben."
 ---
 
 **Forrás:** [Climate Change: Implications for Buildings](https://www.cisl.cam.ac.uk/system/files/documents/IPCC_AR5__Implications_for_Buildings__Briefing__WEB_EN.pdf)  
 **Szerző:** IPCC  
 **Megjelenés:** 2014.04.01.  
+
+![Klimaváltozás: Épületekre gyakorolt hatás](https://www.thehappyturtlestraw.com/wp-content/uploads/2022/05/20220524-thts-impact-of-plastic-wastes-on-climate-change-1920x1080-1.jpg)
 
 ## Főbb módszerek
 
