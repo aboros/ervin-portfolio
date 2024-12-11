@@ -2,9 +2,8 @@
 layout: post
 title:  "12 módszer, amellyel az építészek küzdhetnek az éghajlatváltozás ellen"
 date:   2024-11-16 16:38:24 +0100
+excerpt: "Rose Morrison cikke hangsúlyozza, hogy az építészeknek kulcsszerepük van az éghajlatváltozás hatásainak mérséklésében."
 ---
-
-**Rose Morrison cikke hangsúlyozza, hogy az építészeknek kulcsszerepük van az éghajlatváltozás hatásainak mérséklésében. Az alábbiakban a cikk főbb üzeneteit mutatjuk be:**
 
 **Forrás:** [12 Ways Architects Can Combat Climate Change](https://www-renewableenergymagazine-com.translate.goog/rose-morrison/12-ways-architects-can-combat-climate-change-20231109)  
 **Szerző:** Rose Morrison  

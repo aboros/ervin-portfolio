@@ -2,6 +2,7 @@
 layout: post
 title:  "Változó klima vonatkozásai az épületekre"
 date:   2024-10-24 16:38:24 +0100
+excerpt: "Pieter de Wilde és David Coley cikke az építészek kulcsszerepéről az éghajlatváltozás hatásainak mérséklésében."
 ---
 
 **Forrás:** [The Implications of a Changing Climate for Buildings](https://doi.org/10.1016/j.buildenv.2012.03.014)  

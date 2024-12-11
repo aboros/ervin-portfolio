@@ -9,8 +9,8 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">Írj nekem!</a></li>
-            <li class="rss-subscribe">Feliratkozás: <a href="{{ "/feed.xml" | relative_url }}">RSS</a></li>
+            <li><a class="btn u-email" href="mailto:{{ site.email }}">Írj nekem!</a></li>
+            <li class="rss-subscribe"><a class="btn" href="{{ "/feed.xml" | relative_url }}">RSS</a></li>
             {%- endif -%}
         </ul>
       </div>

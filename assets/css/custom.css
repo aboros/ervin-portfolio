@@ -7,6 +7,17 @@ a:hover {
     color: rgb(5, 48, 24);
 }
 
+/* Footer styles */
+.site-footer {
+    background-color: #4a512e;
+    color: #e8eed0;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.footer-col-wrapper {
+    color: #e8eed0;
+}
 /* Basic layout styles */
 .row {
     display: flex;
@@ -40,6 +51,7 @@ a:hover {
 a.btn {
     display: inline-block;
     padding: 10px 20px;
+    margin: 10px 0;
     background-color: #333;
     color: white;
     text-decoration: none;
