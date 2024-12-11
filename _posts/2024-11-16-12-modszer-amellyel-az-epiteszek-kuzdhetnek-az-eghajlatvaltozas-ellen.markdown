@@ -11,10 +11,10 @@ date:   2024-11-16 16:38:24 +0100
 **Megjelenés:** 2023. november 09.
 
 ## Főbb módszerek
-
 ### 1. Fenntartható anyagok használata
 Az építészek olyan anyagok kiválasztását szorgalmazzák, amelyek alacsony szén-dioxid-kibocsátással járnak vagy újrahasznosított forrásokból származnak. Ezáltal csökkenthető az épületekbe „beépített szénlábnyom".
 
+![Energiahatékonyság](https://onekeyresources.milwaukeetool.com/hs-fs/hubfs/community-space-rooftop.jpg)
 ### 2. Energiahatékonyság
 Az épületek tervezése során a passzív hűtési megoldások, energiahatékony fűtési és hűtési rendszerek, valamint a megújuló energiaforrások integrációja elengedhetetlen. Ezek a megoldások hozzájárulnak az energiafelhasználás csökkentéséhez.
 
