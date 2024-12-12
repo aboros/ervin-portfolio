@@ -19,3 +19,12 @@ Ez a portfólió oldal a munkáimat mutatja be. Lépj velem kapcsolatba, ha új 
         <a href="{{ site.baseurl }}/about" class="btn">További részletek</a>
     </div>
 </div>
+<div class="row">
+    <div class="col box">
+        <h2>Legfrissebb bejegyzés</h2>
+        {% assign latest_post = site.posts.first %}
+        <h3>{{ latest_post.title }}</h3>
+        <p>{{ latest_post.excerpt | strip_html | truncatewords: 50 }}</p>
+        <a href="{{ latest_post.url | prepend: site.baseurl }}" class="btn">Tovább olvasom</a>
+    </div>
+</div>

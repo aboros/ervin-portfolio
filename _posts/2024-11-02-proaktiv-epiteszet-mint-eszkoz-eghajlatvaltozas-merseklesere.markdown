@@ -34,3 +34,5 @@ A _"Proactive Architecture as a Means to Mitigate Climate Change"_ című cikk a
 - Több együttműködés a szakértők között, szabályozások bevezetése, és az ökológiai szempontokat figyelembe vevő várostervezés szükségessége
 
 A tanulmány hangsúlyozza, hogy az építészeti szektor kulcsszerepet játszik a fenntartható jövő megteremtésében, és kiemeli, hogy a proaktív megközelítés nemcsak a klímaváltozás hatásait enyhíti, hanem hosszú távú gazdasági és társadalmi előnyökkel is jár. További részletek az írás teljes változatában találhatók a kapcsolódó publikációk és cikkek forrásaiban.
+
+![Proaktív építészet, mint eszköz az éghajlatváltozás mérséklésére](https://media.licdn.com/dms/image/C4E12AQGpycbpaOWljw/article-cover_image-shrink_720_1280/0/1600365338575?e=2147483647&v=beta&t=cFGC71PWvHdswM_KETsl3ZZjl-xsWVl9KoT9jQ-4JxU)

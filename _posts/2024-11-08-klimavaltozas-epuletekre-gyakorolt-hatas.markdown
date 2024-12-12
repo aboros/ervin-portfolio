@@ -47,3 +47,5 @@ A Cambridge Institute for Sustainability Leadership kutatása rávilágít arra,
 ## Jelentőség
 
 A tanulmány hangsúlyozza, hogy az építőipar kulcsszerepet játszhat mind a klímaváltozás mérséklésében, mind az ahhoz való alkalmazkodásban. Az aktív tervezés és a fenntarthatóságot előmozdító döntések jelentős pozitív hatással lehetnek a környezeti és gazdasági folyamatokra.
+
+![Klimaváltozás: Épületekre gyakorolt hatás](https://media.licdn.com/dms/image/v2/D5612AQHZm37BL1bNVw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1700867754044?e=2147483647&v=beta&t=XeBDn88_RKZvF0Z-aykWSNvJ_Y5sBKzxFjuMy96y4v0)
