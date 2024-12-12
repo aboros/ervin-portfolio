@@ -2,7 +2,7 @@
 layout: post
 title:  "Proaktív építészet, mint eszköz az éghajlatváltozás mérséklésére"
 date:   2024-11-02 16:38:24 +0100
-excerpt: "ArchDaily cikke rávilágít arra, hogy proaktív építészet kulcsfontosságú a klímaváltozás elleni küzdelemben."
+excerpt: "Az ArchDaily cikke rávilágít arra, hogy proaktív építészet kulcsfontosságú a klímaváltozás elleni küzdelemben."
 ---
 
 **Forrás:** [Proactive Architecture as a Means to Mitigate Climate Change](https://www.archdaily.com/938685/proactive-architecture-as-a-means-to-mitigate-climate-change) (ArchDaily)  
@@ -11,11 +11,7 @@ excerpt: "ArchDaily cikke rávilágít arra, hogy proaktív építészet kulcsfo
 
 ![Proaktív építészet, mint eszköz az éghajlatváltozás mérséklésére](https://images.adsttc.com/media/images/5eaa/6a9f/b357/6504/8400/00e8/newsletter/rebuildbydesign.org.jpg?1588226714)
 
-## Főbb módszerek
-
-### 1. Proaktív építészet fogalma
-
-A „Proactive Architecture as a Means to Mitigate Climate Change" című cikk a klímaváltozás hatásainak mérséklésére szolgáló építészeti stratégiákat tárgyalja. Az írás középpontjában a „proaktív építészet" koncepciója áll, amely megelőző és adaptív intézkedésekkel törekszik csökkenteni a klímaváltozás káros hatásait, miközben fenntartható és ellenálló építészeti megoldásokat nyújt.
+A _"Proactive Architecture as a Means to Mitigate Climate Change"_ című cikk a klímaváltozás hatásainak mérséklésére szolgáló építészeti stratégiákat tárgyalja. Az írás középpontjában a „proaktív építészet" koncepciója áll, amely megelőző és adaptív intézkedésekkel törekszik csökkenteni a klímaváltozás káros hatásait, miközben fenntartható és ellenálló építészeti megoldásokat nyújt.
 
 ## Főbb tartalmi elemek
 

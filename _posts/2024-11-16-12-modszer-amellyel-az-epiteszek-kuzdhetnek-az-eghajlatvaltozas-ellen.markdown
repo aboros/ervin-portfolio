@@ -29,7 +29,7 @@ Az esővízgyűjtő rendszerek és a szürkevíz újrahasznosítása olyan megol
 ### 6. Közösségi együttműködés
 Az építészek aktívan bevonhatják a közösségeket és az ügyfeleket a fenntartható tervezésbe, ezáltal elősegítve a zöld szemlélet terjedését.
 
-## Kiemelkedő példa
+## Inspiráló példa
 
 > ### Bosco Verticale (Milánó)
 > Ez a híres olasz építészeti projekt egy sűrű városi környezetben hoz létre élő növényekkel borított felhőkarcolókat. Az épületek hozzájárulnak a szén-dioxid megkötéséhez és egy élhetőbb városi tér kialakításához.

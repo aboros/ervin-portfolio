@@ -1,0 +1,14 @@
+<div class="related-posts">
+    <div class="box">
+    <h3>További cikkek</h3>
+    <ul>
+    {% assign filtered_posts = site.posts | where_exp: "post", "post.url != page.url" %}
+    {% for post in filtered_posts limit:5 %}
+      <li>
+        <div class="post-meta">{{ post.date | date: date_format }}</div>
+        <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+      </li>
+    {% endfor %}
+    </ul>
+    </div>
+</div>
