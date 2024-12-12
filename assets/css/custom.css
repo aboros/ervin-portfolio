@@ -1,15 +1,15 @@
 :root {
     --var-color-light: #e8eed0;
     --var-color-dark: #4a512e;
-    --var-color-link: rgb(19, 145, 76);
-    --var-color-link-hover: rgb(15, 93, 50);
+    --var-color-link: rgb(64, 101, 41);
+    --var-color-link-hover: rgb(43, 49, 42);
 }
 a:link, a:visited {
-    text-decoration: none;
+    text-decoration: underline;
     color: var(--var-color-link);
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: var(--var-color-link-hover);
 }
 /* Header styles */
@@ -20,15 +20,23 @@ a:hover {
 }
 .site-header a:link, .site-header a:visited {
     color: var(--var-color-light);
+    text-decoration: none;
+}
+.site-header a:hover {
+    color: #fff;
+    text-decoration: underline;
 }
 /* Site navigation */
 @media screen and (max-width: 600px) {
     .site-nav {
-        background-color: var(--var-color-dark);
+        background-color: #222;
         border: none;
     }
     .site-nav .menu-icon > svg {
         fill: var(--var-color-light);
+    }
+    .site-nav input:checked ~ .trigger {
+        background-color: #222;
     }
 }
 /* Footer styles */
@@ -84,14 +92,16 @@ a.btn {
     display: inline-block;
     padding: 10px 20px;
     margin: 10px 0;
-    background-color: #333;
+    background-color: var(--var-color-dark);
+    border: 3px solid var(--var-color-dark);
     color: white;
     text-decoration: none;
     transition: background-color 0.3s ease;
     border-radius: 5px;
 }
 a.btn:hover {
-    background-color: var(--var-color-link-hover);
+    background-color: var(--var-color-light);
+    color: var(--var-color-dark);
     text-decoration: underline;
 }
 
