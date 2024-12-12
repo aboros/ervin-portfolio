@@ -3,8 +3,14 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <div class="branding">
+    {% if site.logo %}
+      <div class="logo-container">
+        <img src="{{ site.logo | relative_url }}" alt="logo" class="logo">
+      </div>
+    {% endif %}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
+    </div>
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />

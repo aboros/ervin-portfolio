@@ -3,6 +3,7 @@
     --var-color-dark: #4a512e;
     --var-color-link: rgb(64, 101, 41);
     --var-color-link-hover: rgb(43, 49, 42);
+    --var-border-color: #eaeaea;
 }
 a:link, a:visited {
     text-decoration: underline;
@@ -25,6 +26,9 @@ a:hover {
 .site-header a:hover {
     color: #fff;
     text-decoration: underline;
+}
+.logo {
+    border-radius: 50%;
 }
 /* Site navigation */
 @media screen and (max-width: 600px) {
@@ -108,5 +112,12 @@ a.btn:hover {
 /* Post list styles */
 ul.post-list li {
     padding: 2rem 0;
-    border-bottom: 1px solid #eaeaea;
+    border-bottom: 1px solid var(--var-border-color);
+}
+
+/* Related posts */
+.related-posts {
+    padding-top: 2rem;
+    margin: 4rem 0 0 0;
+    border-top: 1px solid var(--var-border-color);
 }
