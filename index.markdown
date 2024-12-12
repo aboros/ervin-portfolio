@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ' '
+title: 'Címlap'
+order: 1
 ---
 
 # Üdvözlöm, és köszönöm, hogy ellátogatott az oldalamra!

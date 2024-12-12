@@ -13,11 +13,18 @@ a:hover {
     text-decoration: none;
     color: var(--var-color-link-hover);
 }
+li {
+    margin-bottom: 1em;
+}
 /* Header styles */
+.site-title {
+    letter-spacing: normal;
+    font-weight: 400;
+}
 .site-header {
     background-color: var(--var-color-dark);
     color: var(--var-color-light);
-    padding: 2rem;
+    padding: 2rem 0 1rem 0;
 }
 .site-header a:link, .site-header a:visited {
     color: var(--var-color-light);

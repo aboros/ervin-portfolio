@@ -2,6 +2,7 @@
 layout: cikkek
 title: Cikkek
 permalink: /posts/
+order: 2
 ---
 
 <p class="box">
