@@ -1,22 +1,55 @@
+:root {
+    --var-color-light: #e8eed0;
+    --var-color-dark: #4a512e;
+    --var-color-link: rgb(19, 145, 76);
+    --var-color-link-hover: rgb(15, 93, 50);
+}
 a:link, a:visited {
     text-decoration: none;
-    color: rgb(23, 177, 92);
+    color: var(--var-color-link);
 }
 a:hover {
     text-decoration: underline;
-    color: rgb(5, 48, 24);
+    color: var(--var-color-link-hover);
 }
-
+/* Header styles */
+.site-header {
+    background-color: var(--var-color-dark);
+    color: var(--var-color-light);
+    padding: 2rem;
+}
+.site-header a:link, .site-header a:visited {
+    color: var(--var-color-light);
+}
+/* Site navigation */
+@media screen and (max-width: 600px) {
+    .site-nav {
+        background-color: var(--var-color-dark);
+        border: none;
+    }
+    .site-nav .menu-icon > svg {
+        fill: var(--var-color-light);
+    }
+}
 /* Footer styles */
 .site-footer {
-    background-color: #4a512e;
-    color: #e8eed0;
+    background-color: var(--var-color-dark);
+    color: var(--var-color-light);
     padding: 2rem;
     border-radius: 5px;
 }
 
 .footer-col-wrapper {
-    color: #e8eed0;
+    color: var(--var-color-light);
+}
+.site-footer a.btn {
+    color: var(--var-color-light);
+    border: 3px solid var(--var-color-light);
+    background-color: transparent;
+}
+.site-footer a.btn:hover {
+    color: var(--var-color-light);
+    background-color: #000;
 }
 /* Basic layout styles */
 .row {
@@ -35,8 +68,7 @@ a:hover {
 }
 .box {
     padding: 20px;
-    background-color: #e8eed0;
-    border-radius: 5px;
+    background-color: var(--var-color-light);
 }
 .flex {
     display: flex;
@@ -56,9 +88,10 @@ a.btn {
     color: white;
     text-decoration: none;
     transition: background-color 0.3s ease;
+    border-radius: 5px;
 }
 a.btn:hover {
-    background-color: rgb(16, 138, 71);
+    background-color: var(--var-color-link-hover);
     text-decoration: underline;
 }
 
