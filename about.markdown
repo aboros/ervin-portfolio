@@ -12,7 +12,7 @@ Jelenleg **környezetvédelmi szakpszichológus** képzésre járok azért, hogy
 ## Munkám során a következő területekre összpontosítok
 - **Fenntartható építészet:** az épületek és terek tervezését úgy közelítem meg, hogy azok hosszú távon is szolgálják az ökológiai és társadalmi fenntarthatóságot.
 - **A klímaváltozás hatása az építészeti kultúrára:** hogyan alkalmazkodhat az építészet a változó környezeti feltételekhez, és hogyan lehet egyensúlyt teremteni a múlt értékei és a jövő kihívásai között?
-- **Támogató környezet kialakítása:** itt például olyan inspiráló munkahelyi környezet megalkotására gondoljon, amelyek elősegítik a kreativitást, a flow-élményt, hálószoba esetében pedig a rekreációt.
+- **Támogató környezet kialakítása:** itt például olyan inspiráló munkahelyi környezet megalkotására gondolok, amelyek elősegítik a kreativitást, a flow-élményt. A pihenést szolgáló hálószoba esetében pedig a rekreációt.
 - **Műemléki épületek felújítása:** a történelmi, kulturális örökségeink megőrzése mellett egészséges, és fenntartható környezetet biztosítson az ott élők és dolgozók számára.
 
 **Építészként a legnagyobb kihívást** - világörökség részét képező - Pannonhalmi Főapátság felújítási munkáinak irányítása, szakmai felügyelete jelentette. Munkám során nagy gondot fordítottam a vezetésem alatt álló 120 fős építőipari részleg szakmai továbbképzésére és a minőségbiztosításra.  
@@ -21,28 +21,28 @@ Jelenleg **környezetvédelmi szakpszichológus** képzésre járok azért, hogy
 
 **Pszichológusként,** segíteni szeretném az embereket személyes fejlődési terveik megalkotásában és megvalósításában, hogy boldogabb, jövőtudatosabb életet élhessenek.
 
-**Szabadidő:** a természet közelsége inspirál, ezért rendszeresen járok erdőbe. Az erdőterápiás gyakorlatok hozzásegítenek ahhoz, hogy új perspektívákat találjak mind a szakmai, mind a gyakorlatok hozzásegítenek ahhoz, hogy új perspektívákat találjak mind a szakmai, mind a személyes életemhez. Testedzésre küzdősportot választottam, amely a kitartásomat és mentális fókuszomat is erősíti. A meditáció rendszeres gyakorlása - ezen tevékenységekkel
-összhangban - hozzájárul a testi-lelki jóllétem folyamatos biztosításához.
+**Szabadidőmben,** a természet közelsége inspirál, ezért rendszeresen járok erdőbe. Az erdőterápiás gyakorlatok hozzásegítenek ahhoz, hogy új perspektívákat találjak mind a szakmai, mind a gyakorlatok hozzásegítenek ahhoz, hogy új perspektívákat találjak mind a szakmai, mind a személyes életemhez. Testedzésre küzdősportot választottam, amely a kitartásomat és mentális fókuszomat is erősíti. A meditáció rendszeres gyakorlása - ezen tevékenységekkel összhangban - hozzájárul a testi-lelki jóllétem folyamatos biztosításához.
 
 ## Szakmai aktivitás
 
-**GYŐR-MOSON-SOPRON MEGYEI ÉPÍTÉSZ KAMARA**
 MTA Székház Rekonstrukciós Szakértői Elnöki Bizottság
+**GYŐR-MOSON-SOPRON MEGYEI ÉPÍTÉSZ KAMARA**
+
 Jogosultságok:
-- Épületszerkezeti szakértő /2025.05.25. aktív/
-- Építési beruházási szakértő /2025.05.25. aktív/
-- Magasépítési műszaki ellenőr /2025.05.25. aktív/
-- Építési felelős műszaki vezető /2025.05.25. aktív/
-- Építésztervező /2025.05.25. aktív/
+- Épületszerkezeti szakértő
+- Építési beruházási szakértő
+- Magasépítési műszaki ellenőr
+- Építési felelős műszaki vezető
+- Építésztervező
 
 ## Eredmények
 
 - **Szakdolgozatommal** – melyet egészséges iskolatervezés témaköréből írtam – az 1978-ban rendezett Tudományos Diákköri Konferencián első helyezést értem el.
 - **Az Év Tetője pályázaton** több - általam vezetett - munkával is sikert értünk el, nevezetesen:
-  - **Nyalkai templomtorony I. kat. díj**
-  - **Pannonhalmi Főapátság, Bazilika tető I. kat. díj**
-  - **Pannonhalmi Főapátság, Könyvtár tető Külön díj**
-  - **Bp. VIII. Baross u. 76. Külön díj**
+  - **Nyalkai templomtorony - I. kat. díj**
+  - **Pannonhalmi Főapátság, Bazilika tető - I. kat. díj**
+  - **Pannonhalmi Főapátság, Könyvtár tető - Külön díj**
+  - **Bp. VIII. Baross u. 76. - Külön díj**
 
 - **1995-ben** az ÉVOSZ Lechner Ödön díjban részesített.
 - **1996-ban** Göncz Árpád köztársasági elnöktől - a Pannonhalmi Főapátság rekonstrukciójának magas szakmai színvonalú kivitelezéséért - a **Millecentenáriumi Emlékérmet** kaptam.

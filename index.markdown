@@ -6,15 +6,15 @@ order: 1
 
 # Üdvözlöm, és köszönöm, hogy ellátogatott az oldalamra!
 
-Mekota Ervinnek hívnak, építész és pszichológus vagyok.  
+Mekota Ervinnek építész és pszichológus vagyok.  
 
-Számomra az ember és a környezet kapcsolata - kezdetektől fogva - kiemelten fontos terület. Szakmai utamon, elsősorban az építészet és a pszichológia összefonódását kutatom, különösen a fenntarthatóság és az emberi jóllét szempontjából. Jelenleg **környezetvédelmi szakpszichológus** képzésre járok azért, hogy még mélyebb ismereteket szerezzek az ember ésa természet összhangjának megteremtéséhez.
+Számomra az ember és a környezet kapcsolata - kezdetektől fogva - kiemelten fontos terület. Szakmai utamon, elsősorban az építészet és a pszichológia összefonódását kutatom, különösen a fenntarthatóság és az emberi jóllét szempontjából. Jelenleg **környezetvédelmi szakpszichológus** képzésre járok azért, hogy még mélyebb ismereteket szerezzek az ember és a természet összhangjának megteremtéséhez.
 
 <div class="row">
     <div class="col box flex">
         <h2>Cikkek</h2>
         <p>Szakmai cikkek építészet és klímaváltozás témában.</p>
-        <a href="{{ site.baseurl }}/posts" class="btn">Böngéssz a cikkeim között</a>
+        <a href="{{ site.baseurl }}/posts" class="btn">Böngéssz az általam javasolt cikkek között</a>
     </div>
     <div class="col box flex">
         <h2>Magamról</h2>
@@ -28,6 +28,6 @@ Számomra az ember és a környezet kapcsolata - kezdetektől fogva - kiemelten 
         {% assign latest_post = site.posts.first %}
         <h3>{{ latest_post.title }}</h3>
         <p>{{ latest_post.excerpt | strip_html | truncatewords: 50 }}</p>
-        <a href="{{ latest_post.url | prepend: site.baseurl }}" class="btn">Tovább olvasom</a>
+        <a href="{{ latest_post.url | prepend: site.baseurl }}" class="btn">Tovább</a>
     </div>
 </div>
