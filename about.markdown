@@ -25,15 +25,15 @@ Jelenleg **környezetvédelmi szakpszichológus** képzésre járok azért, hogy
 
 ## Szakmai aktivitás
 
-MTA Székház Rekonstrukciós Szakértői Elnöki Bizottság
-**GYŐR-MOSON-SOPRON MEGYEI ÉPÍTÉSZ KAMARA**
+MTA Székház Rekonstrukciós Szakértői Elnöki Bizottság  
+Illetékes területi kamara: Győr-Moson-Sopron Vármegyei Építész Kamara
 
 Jogosultságok:
 - Épületszerkezeti szakértő
 - Építési beruházási szakértő
 - Magasépítési műszaki ellenőr
 - Építési felelős műszaki vezető
-- Építésztervező
+- Építész tervező
 
 ## Eredmények
 
