@@ -6,7 +6,7 @@ order: 1
 
 # Üdvözlöm, és köszönöm, hogy ellátogatott az oldalamra!
 
-Mekota Ervinnek építész és pszichológus vagyok.  
+Mekota Ervin építész és pszichológus vagyok.  
 
 Számomra az ember és a környezet kapcsolata - kezdetektől fogva - kiemelten fontos terület. Szakmai utamon, elsősorban az építészet és a pszichológia összefonódását kutatom, különösen a fenntarthatóság és az emberi jóllét szempontjából. Jelenleg **környezetvédelmi szakpszichológus** képzésre járok azért, hogy még mélyebb ismereteket szerezzek az ember és a természet összhangjának megteremtéséhez.
 
